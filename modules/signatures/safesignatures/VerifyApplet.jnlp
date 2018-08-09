@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="" href="">
+    <information>
+        <title>Verify Applet PDF</title>
+        <vendor>Softmag Sp z o.o.</vendor>
+    </information>
+	<security><all-permissions/></security>
+    <resources>
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="xmlsignappletmvn-2.46.jar" main="true" />
+    </resources>
+    <applet-desc 
+         name="Sign Applet PDF"
+         main-class="com.signapplet.VerifyApplet" 
+		 width="960" 
+         height="3324" >
+     </applet-desc>
+     <update check="background"/>
+</jnlp>

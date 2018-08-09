@@ -1,0 +1,32 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+'Valuations'=>'Wyceny',
+'new valuation'=>'nowa wycena',
+'Add Valuation'=>'Dodaj wycenę',
+'valuations list'=>'lista wycen',
+'All Valuations'=>'Wszystkie wyceny',
+
+'Valuation create'=>'Data zlecenia',
+'Valuation title'=>'Tytuł wyceny',
+'Valuation type'=>'Status',
+'Valuation owner'=>'Zleceniodawca',
+'Valuation date'=>'Dzień wyceny',
+'Valuation days'=>'Czas realizacji',
+'Valuation amount'=>'Koszt całkowity',
+'Valuation project'=>'Projekt',
+'Order'=>'Zamówienie wyceny',
+'Valuation'=>'Wycena',
+'New valuation'=>'Nowa wycena',
+'Select project'=>'Wybierz projekt',
+'Basic information'=>'Informacje podstawowe',
+'Valuation desc'=>'Opis przedmiotu wyceny',
+'Valuations deleted'=>'Wycena została usunięta',
+'Valuation real days'=>'Reczywisty czas realizacji',
+'Valuation real amount'=>'Rzeczywisty koszt realizacji',
+'View valuation'=>'Podgląd wyceny',
+'Valuations stored'=>'Dane wyceny zapisane',
+'actualize'=>'aktualizuj',
+'Automated valuation system, requires that the project to estimate. Create a project and refer to quantify. The project should have the status "The proposed"'=>'System wycen automatycznych, wymaga wskazania projektu do oszacowania. Utwórz projekt i wskaż do oszacowania. Twój projekt powinien mieć status "Proponowane"',
+'Are you sure you want to delete this valuation?'=>'Na pewno usunąć wycenę?',
+

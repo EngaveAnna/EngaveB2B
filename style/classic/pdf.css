@@ -1,0 +1,38 @@
+body
+{
+	background-color: #FFF;
+	background-image: none;
+	background: #FFF;
+	font-family: DejaVu Sans, sans-serif !important;
+}
+
+table {
+    border-style: solid;
+    border-color:#000;
+    font-family: DejaVu Sans, sans-serif !important;
+}
+
+
+.table 
+{
+    border-collapse: collapse;
+    border-style: solid;
+    border-color:#000;
+    font-family: DejaVu Sans, sans-serif !important;
+}
+
+td {
+    border-style: solid;
+    font-family: DejaVu Sans, sans-serif !important;
+}
+
+label {
+	float:left !important;
+	display:inline !important;
+	font-family: DejaVu Sans, sans-serif !important;
+}
+
+pre {
+	font-family: DejaVu Sans, sans-serif !important;
+
+	}

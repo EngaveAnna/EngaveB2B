@@ -1,0 +1,21 @@
+{
+    "name": "apmProject/core",
+    "version": "3.2.80",
+    "type": "application",
+    "description": "web-based project management system",
+    "keywords": ["gantt charts", "task tracking", "time tracking", "project planning"],
+    "homepage": "http://apmProject.net",
+    "license": "Clear BSD",
+    "authors": [
+        {
+            "name": "Sebastian",
+            "email": "Sebastian@softmag.com.pl"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "apmProject": "src/"}
+    }
+}
